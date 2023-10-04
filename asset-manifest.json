@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chatmate/static/css/main.03bd6dd2.css",
-    "main.js": "/chatmate/static/js/main.8aa1225f.js",
+    "main.js": "/chatmate/static/js/main.5267bb97.js",
     "index.html": "/chatmate/index.html",
     "main.03bd6dd2.css.map": "/chatmate/static/css/main.03bd6dd2.css.map",
-    "main.8aa1225f.js.map": "/chatmate/static/js/main.8aa1225f.js.map"
+    "main.5267bb97.js.map": "/chatmate/static/js/main.5267bb97.js.map"
   },
   "entrypoints": [
     "static/css/main.03bd6dd2.css",
-    "static/js/main.8aa1225f.js"
+    "static/js/main.5267bb97.js"
   ]
 }
